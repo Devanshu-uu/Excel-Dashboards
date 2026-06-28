@@ -17,7 +17,6 @@ Welcome to my data analytics showcase! This repository contains professional int
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power Query" />
   <img src="https://img.shields.io/badge/Data_Visualization-00599C?style=for-the-badge&logo=analytics&logoColor=white" alt="Data Viz" />
   <img src="https://img.shields.io/badge/Data_Cleaning-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Data Cleaning" />
 </p>
