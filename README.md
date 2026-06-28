@@ -27,7 +27,7 @@ Welcome to my data analytics showcase! This repository contains professional int
 
 ### 🔍 Live Preview
 <p align="center">
-  <img src="Amazon Dashboard- Project 1.jpg" alt="Amazon Sales Dashboard 2024" width="100%" />
+  <img src="Project1_AmazonSalesDashboard/Amazon Dashboard- Project 1.jpg" alt="Amazon Sales Dashboard 2024" width="100%" />
 </p>
 
 ### 📝 Project Objective
