@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=200&section=header&text=Excel%20Data%20Analytics%20Portfolio&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
+<!-- 🎉 Professional Data Analytics & Excel Dashboards Portfolio -->
 
 <h1 align="center">📊 Devanshu's Interactive Excel Dashboards Portfolio</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=📈+Data+Analysis+%26+Visualization;🎛️+Dynamic+Slicers+%26+KPIs;⚡+Transforming+Raw+Data+into+Insights!">
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave3.svg" width="100%" />
 
 ---
 
@@ -19,10 +15,12 @@ Welcome to my data analytics showcase! This repository contains professional int
 
 ## 🛠️ Data Analytics Toolkit
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-00599C?style=for-the-badge&logo=analytics&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Data_Visualization-00599C?style=for-the-badge&logo=analytics&logoColor=white" alt="Data Viz" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Data Cleaning" />
+</p>
 
 ---
 
@@ -30,7 +28,7 @@ Welcome to my data analytics showcase! This repository contains professional int
 
 ### 🔍 Live Preview
 <p align="center">
-  <img src="Amazon Dashboard- Project 1.jpg" alt="Amazon Sales Dashboard 2024" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="Amazon Dashboard- Project 1.jpg" alt="Amazon Sales Dashboard 2024" width="100%" />
 </p>
 
 ### 📝 Project Objective
@@ -66,6 +64,7 @@ All projects are modularly structured so you can explore the datasets and final 
 
 ---
 
+<!-- 💬 Marquee Scrolling Text -->
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="7">
     🔍 Clean the Noise · 📊 Extract the Story · 💡 Deliver Insights · 🚀 Leveling Up with Data Analytics!
@@ -95,5 +94,5 @@ All projects are modularly structured so you can explore the datasets and final 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devanshu-uu&label=Portfolio+Views&color=007acc" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Devanshu-uu&label=Profile+Views&color=007acc" alt="Profile Views" />
 </p>
